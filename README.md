@@ -1,8 +1,10 @@
-# BOOK CRUD API
+BOOK CRUD API
+=============
 
 a sample book crud api using flask python 📚
 
-# Requirement
+ Requirement
+ -----------
 ```
 pip install Flask
 ```
@@ -10,12 +12,13 @@ pip install Flask
 pip install gunicorn
 ```
 
-# RUN
+Run
+---
 ``` 
 flask run
 ```
 
-GET BOOK
+Get book
 --------
 ```
 http://127.0.0.1:5000/books
